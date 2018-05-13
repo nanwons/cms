@@ -1,6 +1,6 @@
 ---
 title: "nows"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
